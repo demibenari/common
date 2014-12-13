@@ -1,4 +1,4 @@
-package demibenari.configuration;
+package demibenari.common.configuration;
 
 import java.util.Map;
 

@@ -1,5 +1,6 @@
-package demibenari.entities;
+package demibenari.common.entities.common;
 
+import demibenari.common.entities.Item;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;

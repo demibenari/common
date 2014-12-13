@@ -1,4 +1,4 @@
-package demibenari.entities;
+package demibenari.common.entities;
 
 /**
  *
