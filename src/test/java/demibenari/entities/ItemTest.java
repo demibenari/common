@@ -1,4 +1,4 @@
-package demibenari;
+package demibenari.entities;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
@@ -8,7 +8,7 @@ import org.junit.Test;
  *
  * Created by demi on 08/10/14.
  */
-public class EntityTest {
+public class ItemTest {
 
     @BeforeClass
     public static void setUpBeforeClass() {
@@ -17,7 +17,7 @@ public class EntityTest {
 
     @Test
     public void createEntity() {
-        Entity entity = new Entity("Some name", 100);
+        Item item = new Item("Some name", 100);
     }
 
     @AfterClass

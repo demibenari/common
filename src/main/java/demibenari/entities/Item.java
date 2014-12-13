@@ -1,14 +1,14 @@
-package demibenari;
+package demibenari.entities;
 
 /**
  *
  * Created by demi on 08/10/14.
  */
-public class Entity {
+public class Item {
     protected final String name;
     protected final Integer id;
 
-    public Entity(String name, Integer id) {
+    public Item(String name, Integer id) {
         this.name = name;
         this.id = id;
     }
