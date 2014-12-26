@@ -8,5 +8,5 @@ import java.util.Map;
  */
 public interface ConfigProvider {
     public String getProperty(String propertyName);
-    public String injectConfiguration(Map<String, String> propertiesMap);
+    public void injectConfiguration(Map<String, String> propertiesMap);
 }
