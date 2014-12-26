@@ -2,9 +2,9 @@ package demibenari.common.authentication;
 
 /**
  *
- * Created by Demi on 12/13/2014.
+ * Created by Demi Ben-Ari on 12/13/2014.
  */
-public class LDAPSecurityService implements SecutiryService {
+public class LDAPSecurityService implements SecurityService {
 
     public static final String NOT_AUTHORIZED_USER = "Stranger";
 

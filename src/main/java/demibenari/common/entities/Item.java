@@ -2,7 +2,7 @@ package demibenari.common.entities;
 
 /**
  *
- * Created by demi on 08/10/14.
+ * Created by Demi Ben-Ari on 08/10/14.
  */
 public class Item {
     protected final String name;

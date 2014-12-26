@@ -2,7 +2,7 @@ package demibenari.common.observers;
 
 /**
  *
- * Created by Demi on 12/13/2014.
+ * Created by Demi Ben-Ari on 12/13/2014.
  */
 public interface Subjet<T> {
     public boolean addListener(T listener);

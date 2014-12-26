@@ -1,8 +1,9 @@
 package demibenari.common.authentication;
 
 /**
- * Created by Demi on 12/13/2014.
+ *
+ * Created by Demi Ben-Ari on 12/13/2014.
  */
-public interface SecutiryService {
+public interface SecurityService {
     public boolean isAuthorized(String entityIdentifier);
 }

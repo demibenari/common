@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  *
- * Created by Demi on 12/13/2014.
+ * Created by Demi Ben-Ari on 12/13/2014.
  */
 public class AbstractSubjet<T> implements Subjet<T> {
     protected final List<T> listeners = new ArrayList<>();

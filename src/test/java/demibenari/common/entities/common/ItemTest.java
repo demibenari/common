@@ -7,7 +7,7 @@ import org.junit.Test;
 
 /**
  *
- * Created by demi on 08/10/14.
+ * Created by Demi Ben-Ari on 08/10/14.
  */
 public class ItemTest {
 
